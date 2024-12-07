@@ -110,7 +110,7 @@ input [type=submit] {
     padding: 15px;
     background-color: #073A58;
     color: #BF1B2C;
-    text-size:16;
+    font-size: 16;
 }
 
 /* For desktop: */
